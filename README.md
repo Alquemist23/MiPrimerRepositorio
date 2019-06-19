@@ -1,1 +1,1 @@
-Tuturial Git
+Tutorial Git
